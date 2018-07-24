@@ -1838,7 +1838,7 @@ body {
   color: #149dcc;
 }
 .cid-qYI7ZpjiK1 {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-qYI7ZpjiK1 h1 {
   color: #616161;
@@ -1850,6 +1850,12 @@ body {
 }
 .cid-qYI7ZpjiK1 .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-qYI7ZpjiK1 H3 {
+  color: #232323;
+}
+.cid-qYI7ZpjiK1 H1 {
+  color: #232323;
 }
 .cid-qYIa6acaOu {
   padding-top: 90px;
