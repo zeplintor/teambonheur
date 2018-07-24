@@ -2282,11 +2282,11 @@ body {
 .cid-qYIlebfcnM {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-color: #55b4d4;
 }
 .cid-qYIlp4t5ad {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qYIlp4t5ad .mbr-text,
@@ -2294,7 +2294,7 @@ body {
   color: #767676;
 }
 .cid-qYIlkMELb5 {
-  padding-top: 60px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
